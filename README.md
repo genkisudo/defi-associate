@@ -73,7 +73,3 @@ tests/
   test_full.py           # End-to-end integration test
 abis/                    # Fetched from block explorers
 ```
-
-## Disclaimer
-
-This is an educational project. Not audited. Do not use on mainnet with real capital.
